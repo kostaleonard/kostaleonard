@@ -1,6 +1,6 @@
 # Leo Kosta
 
-Senior Machine Learning Engineer interested in ML Ops solutions.
+Senior Machine Learning Engineer
 
 <!---
 kostaleonard/kostaleonard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
